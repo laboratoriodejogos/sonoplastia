@@ -1,3 +1,3 @@
-1 - musica de abertura
-2 - musica da fase 1
-3 - musica da fase 2
+1 - música de abertura
+2 - música da fase 1
+3 - música da fase 2
